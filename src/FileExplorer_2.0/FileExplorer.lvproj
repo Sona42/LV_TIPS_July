@@ -18,6 +18,7 @@
 					<Item Name="State.ctl" Type="VI" URL="../Controls/State.ctl"/>
 				</Item>
 				<Item Name="subVIs" Type="Folder">
+					<Item Name="FileInformation.vi" Type="VI" URL="../subVIs/FileInformation.vi"/>
 					<Item Name="QueueDriver.vi" Type="VI" URL="../subVIs/QueueDriver.vi"/>
 				</Item>
 				<Item Name="FileExplorer.vi" Type="VI" URL="../FileExplorer.vi"/>
@@ -29,6 +30,7 @@
 				<Item Name="Clear Errors.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Clear Errors.vi"/>
 				<Item Name="Error Cluster From Error Code.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Error Cluster From Error Code.vi"/>
 				<Item Name="ex_CorrectErrorChain.vi" Type="VI" URL="/&lt;vilib&gt;/express/express shared/ex_CorrectErrorChain.vi"/>
+				<Item Name="Get File Extension.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/libraryn.llb/Get File Extension.vi"/>
 				<Item Name="Is Path and Not Empty.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Is Path and Not Empty.vi"/>
 				<Item Name="List Directory and LLBs.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/libraryn.llb/List Directory and LLBs.vi"/>
 				<Item Name="NI_FileType.lvlib" Type="Library" URL="/&lt;vilib&gt;/Utility/lvfile.llb/NI_FileType.lvlib"/>
