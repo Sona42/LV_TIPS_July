@@ -1,0 +1,86 @@
+<?xml version='1.0' standalone='yes' ?>
+<LVData xmlns="http://www.ni.com/LVData">
+<Version>23.3.3f3</Version>
+<Array>
+<Name>DataArray</Name>
+<Dimsize>2</Dimsize>
+<Cluster>
+<Name></Name>
+<NumElts>2</NumElts>
+<Object>
+<Name>Class Data</Name>
+<NumLevels>2</NumLevels>
+<Class>Calculator.lvlib:Add.lvclass</Class>
+<Version>1.0.0.1</Version>
+<Version>1.0.0.2</Version>
+<Cluster>
+<Name>NumericOperation.lvclass</Name>
+<NumElts>4</NumElts>
+<DBL>
+<Name>A</Name>
+<Val>2.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>B</Name>
+<Val>3.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>C</Name>
+<Val>5.00000000000000</Val>
+</DBL>
+<Refnum>
+<Name>VI Refnum</Name>
+<RefKind>LV Object</RefKind>
+<RefType>VI</RefType>
+<Val>0x82500062</Val>
+</Refnum>
+</Cluster>
+<Cluster>
+</Cluster>
+</Object>
+<String>
+<Name>String</Name>
+<Val>Add_0</Val>
+</String>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>2</NumElts>
+<Object>
+<Name>Class Data</Name>
+<NumLevels>2</NumLevels>
+<Class>Calculator.lvlib:Add.lvclass</Class>
+<Version>1.0.0.1</Version>
+<Version>1.0.0.2</Version>
+<Cluster>
+<Name>NumericOperation.lvclass</Name>
+<NumElts>4</NumElts>
+<DBL>
+<Name>A</Name>
+<Val>4.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>B</Name>
+<Val>4.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>C</Name>
+<Val>8.00000000000000</Val>
+</DBL>
+<Refnum>
+<Name>VI Refnum</Name>
+<RefKind>LV Object</RefKind>
+<RefType>VI</RefType>
+<Val>0x82700062</Val>
+</Refnum>
+</Cluster>
+<Cluster>
+</Cluster>
+</Object>
+<String>
+<Name>String</Name>
+<Val>Add_1</Val>
+</String>
+</Cluster>
+</Array>
+</LVData>
