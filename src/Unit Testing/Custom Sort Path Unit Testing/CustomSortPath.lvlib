@@ -12,11 +12,11 @@
 		<Item Name="FileOperation.ctl" Type="VI" URL="../Controls/FileOperation.ctl"/>
 	</Item>
 	<Item Name="VIs" Type="Folder">
-		<Item Name="Enable_Disable.vi" Type="VI" URL="../VIs/Enable_Disable.vi"/>
-		<Item Name="FileInfo.vi" Type="VI" URL="../VIs/FileInfo.vi"/>
-		<Item Name="ReadWriteTxt.vi" Type="VI" URL="../VIs/ReadWriteTxt.vi"/>
+		<Item Name="Enable Disable.vi" Type="VI" URL="../VIs/Enable Disable.vi"/>
+		<Item Name="File Info.vi" Type="VI" URL="../VIs/File Info.vi"/>
+		<Item Name="Read Write Txt.vi" Type="VI" URL="../VIs/Read Write Txt.vi"/>
 		<Item Name="Sort Array In Reverse.vi" Type="VI" URL="../VIs/Sort Array In Reverse.vi"/>
-		<Item Name="StringToArray.vi" Type="VI" URL="../VIs/StringToArray.vi"/>
-		<Item Name="WriteToCsv.vi" Type="VI" URL="../VIs/WriteToCsv.vi"/>
+		<Item Name="String To Array.vi" Type="VI" URL="../VIs/String To Array.vi"/>
+		<Item Name="Write To Csv.vi" Type="VI" URL="../VIs/Write To Csv.vi"/>
 	</Item>
 </Library>
