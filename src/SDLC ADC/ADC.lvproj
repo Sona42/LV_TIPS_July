@@ -34,12 +34,6 @@
 					<Item Name="Split Channel Data.vi" Type="VI" URL="../subVIs/Split Channel Data.vi"/>
 				</Item>
 				<Item Name="Classes" Type="Folder">
-					<Item Name="Multi Channel" Type="Folder">
-						<Item Name="Channel 1.lvclass" Type="LVClass" URL="../Classes/Adc Convertor/Child/Channel 1/Channel 1.lvclass"/>
-						<Item Name="Channel 2.lvclass" Type="LVClass" URL="../Classes/Adc Convertor/Child/Channel 2/Channel 2.lvclass"/>
-						<Item Name="Channel 3.lvclass" Type="LVClass" URL="../Classes/Adc Convertor/Child/Channel 3/Channel 3.lvclass"/>
-						<Item Name="Channel 4.lvclass" Type="LVClass" URL="../Classes/Adc Convertor/Child/Channel 4/Channel 4.lvclass"/>
-					</Item>
 					<Item Name="Adc Convertor.lvclass" Type="LVClass" URL="../Classes/Adc Convertor/Adc Convertor.lvclass"/>
 					<Item Name="Model.lvclass" Type="LVClass" URL="../Classes/Model/Model.lvclass"/>
 				</Item>
